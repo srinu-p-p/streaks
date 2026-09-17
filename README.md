@@ -1,1 +1,1 @@
-# streaks ! it is for checking the commit options
+# streaks ! it is for checking the commit options!
